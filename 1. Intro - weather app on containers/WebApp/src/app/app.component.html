@@ -1,0 +1,5 @@
+<ul *ngIf="weatherData$ | async as weatherData">
+  <li *ngFor="let data of weatherData">
+      {{data.summary}} , {{data.temperatureC}}
+  </li>
+</ul>
