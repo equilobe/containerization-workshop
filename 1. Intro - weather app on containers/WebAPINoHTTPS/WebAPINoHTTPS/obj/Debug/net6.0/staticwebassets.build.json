@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9rqLOf3ZLgV6WEqZMTdYCvYnhuSwPUP68VCjiQVQAOg=",
+  "Source": "WebAPINoHTTPS",
+  "BasePath": "_content/WebAPINoHTTPS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
